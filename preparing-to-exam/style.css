@@ -1,21 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Oswald:wght@300&family=Rubik+Bubbles&display=swap');
 
 .block1{
 background-color: #CAE16D;
 position: relative;
+font-family: "Rubik Bubbles";
 }
 .block2{
     background-color: #E2CF6A;
     position: relative;
+    font-family: "Rubik Bubbles";
 }
 .block3{
     background-color:#E2806A;
     position: relative;
+    font-family: "Rubik Bubbles";
 }
 .block4{
     background-color: #878BE7;
     position: relative;
+    font-family: "Rubik Bubbles";
 }
 .container-block1-h3{
     width: 100px;
