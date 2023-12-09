@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Oswald:wght@300&display=swap');
+
 .block1{
 background-color: #CAE16D;
 position: relative;
@@ -50,7 +53,9 @@ position: absolute;
     color:#878BE7 ;
     font-size: 120%;
 }
-
+.name{
+    font-family:Oswald;
+}
 
 
 
