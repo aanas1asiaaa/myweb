@@ -20,6 +20,7 @@ position: relative;
    position: absolute;
     bottom: 0;
     right: 0; 
+    color: #CAE16D;
 }
 .container-block2-h3{
     width: 80px;
@@ -27,6 +28,7 @@ position: relative;
 position: absolute;
     bottom: 0;
     right: 0;
+    color:#E2CF6A ;
 }
 .container-block3-h3{
     width: 80px;
@@ -34,6 +36,7 @@ position: absolute;
 position: absolute;
     bottom: 0;
     right: 0;
+    color: #E2806A;
 }
 .container-block4-h3{
     width: 80px;
@@ -41,6 +44,7 @@ position: absolute;
    position: absolute;
     bottom: 0;
     right: 0; 
+    color:#878BE7 ;
 }
 table{
 border-collapse: collapse;
