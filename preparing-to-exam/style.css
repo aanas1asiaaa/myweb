@@ -42,8 +42,10 @@ position: absolute;
     bottom: 0;
     right: 0; 
 }
-.table{
+table{
 border-collapse: collapse;
+margin: 20px auto;
+width: 80%;
 }
 
 
