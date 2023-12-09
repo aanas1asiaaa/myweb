@@ -21,6 +21,7 @@ position: relative;
     bottom: 0;
     right: 0; 
     color: #CAE16D;
+    font-size: 120%;
 }
 .container-block2-h3{
     width: 80px;
@@ -29,6 +30,7 @@ position: absolute;
     bottom: 0;
     right: 0;
     color:#E2CF6A ;
+    font-size: 120%;
 }
 .container-block3-h3{
     width: 80px;
@@ -37,6 +39,7 @@ position: absolute;
     bottom: 0;
     right: 0;
     color: #E2806A;
+    font-size:120%;
 }
 .container-block4-h3{
     width: 80px;
@@ -45,6 +48,7 @@ position: absolute;
     bottom: 0;
     right: 0; 
     color:#878BE7 ;
+    font-size: 120%;
 }
 table{
 border-collapse: collapse;
