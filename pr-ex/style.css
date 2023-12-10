@@ -1,1 +1,69 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@300;400&family=Oswald:wght@300;400&family=Whisper&display=swap');
+.block1{
+    background-color:#14A5B8;
+    position: absolute;
+    color:#DBBB47 ;
+    font-family: Kalnia;
+}
+.block2
+{
+    background-color:#8D28DC;
+    position: absolute;
+    color:#27B71B ;
+    font-family: Kalnia;
+}
+.block3{
+background-color:#27B71B;
+position: absolute;
+color:#8D28DC ;
+font-family: Kalnia;
+}
+.block4{
+    background-color:#DBBB47;
+    position: absolute;
+    color:#14A5B8 ;
+    font-family: Kalnia;
+}
+.h4-block1{
+background-color:#DBBB47 ;
+color:#14A5B8 ;
+font-size:120% ;
+font-family:Oswald ;
+width: 100px;
+position: relative;
+bottom: 0;
+left: 0;
+}
+.h4-block2{
+  background-color:#27B71B ;
+  color:#8D28DC ;
+  font-size:120% ;
+  font-family:Oswald ; 
+  width: 100px;
+  position: relative;
+  bottom: 0;
+  left: 0; 
+}
+.h4-block3{
+   background-color:#8D28DC ;
+   color:#27B71B ;
+   font-size:120% ;
+   font-family:Oswald ; 
+   width: 100px;
+   position: relative;
+   bottom: 0;
+   left: 0;
+}
+.h4-block4{
+  background-color:#14A5B8 ;
+  color:#DBBB47 ;
+  width: 100px;
+  font-size: 120%;
+  font-family:Oswald ; 
+  position: relative;
+  bottom: 0;
+  left: 0; 
+}
+.name{
+    font-family:Whisper;
+}
